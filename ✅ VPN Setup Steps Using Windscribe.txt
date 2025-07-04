@@ -1,0 +1,42 @@
+✅ VPN Setup Steps Using Windscribe
+VPN Service Selection:
+
+I selected Windscribe VPN (Free Tier) for this task due to its good reputation, free data allowance, and ease of use.
+
+Account Creation:
+
+Visited https://windscribe.com and signed up for a free account using an email address and password.
+
+Client Installation:
+
+Downloaded the Windscribe VPN client for Windows from the official website.
+
+Installed the software and logged in with my registered account.
+
+Connecting to a VPN Server:
+
+Opened the Windscribe application.
+
+Selected the "Best Location" option (or manually chose a free server like the United States or Germany).
+
+Clicked the “On” button to connect.
+
+The connection was established successfully and confirmed with a "Connected" status.
+
+IP Address Verification:
+
+Opened https://whatismyipaddress.com in a browser.
+
+The displayed IP address and location were different from my actual location, proving the VPN was working.
+
+Secure Browsing Test:
+
+Visited multiple websites while connected.
+
+All traffic was encrypted, and browsing worked smoothly.
+
+Disconnect and Compare:
+
+Disconnected the VPN.
+
+Revisited the IP checker to confirm my original IP and location were restored.
